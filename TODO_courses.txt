@@ -1,0 +1,10 @@
+https://www.coursera.org/learn/intro-sql - intermediate level - approx 10hrs
+https://www.coursera.org/learn/sql-for-data-science - beginner level - approx 20hrs
+
+----------------------------------------------------------------------------------------------------------------
+
+https://www.coursera.org/specializations/python - python for everybody - beginner - approx 4months
+
+----------------------------------------------------------------------------------------------------------------
+
+https://www.coursera.org/specializations/full-stack-mobile-app-development - intermediate - 7months to complete.
